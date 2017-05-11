@@ -1,0 +1,14 @@
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\bin\Debug\MovieRentalAssignment.exe.config
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\bin\Debug\MovieRentalAssignment.exe
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\bin\Debug\MovieRentalAssignment.pdb
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MainWindow.g.cs
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\App.g.cs
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MovieRentalAssignment_MarkupCompile.cache
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MovieRentalAssignment_MarkupCompile.lref
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MainWindow.baml
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MovieRentalAssignment.g.resources
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MovieRentalAssignment.Properties.Resources.resources
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MovieRentalAssignment.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MovieRentalAssignment.exe
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MovieRentalAssignment.pdb
+E:\Visual Studio Projects\MovieRentalAssignment\MovieRentalAssignment\obj\Debug\MovieRentalAssignment.csprojResolveAssemblyReference.cache
